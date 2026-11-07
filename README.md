@@ -12,7 +12,6 @@ stack.top() == 0
 stack.get_min() == -2
 ```
 
-Для желающих еще подобного из собеса
 
 # 2. Design Underground System
 
